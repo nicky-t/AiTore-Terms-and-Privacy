@@ -45,7 +45,7 @@
 
 ## 第8条（プライバシーポリシーの変更）
 1. 開発者は、本プライバシーポリシーの内容を必要に応じて変更することがあります。  
-2. 変更後のプライバシーポリシーは、本サービス上または開発者が管理するウェブサイト（例：[https://example.com/privacy](https://example.com/privacy)）に掲載された時点で効力を生じ、以降の利用に適用されます。  
+2. 変更後のプライバシーポリシーは、本サービス上または開発者が管理するウェブサイト（例：[https://nicky-t.github.io/AiTore-Terms-and-Privacy/privacy](https://nicky-t.github.io/AiTore-Terms-and-Privacy/privacy)）に掲載された時点で効力を生じ、以降の利用に適用されます。  
 3. ユーザーは、本サービスの利用継続により、変更後の内容に同意したものとみなされます。
 
 ## 第9条（お問い合わせ窓口）
